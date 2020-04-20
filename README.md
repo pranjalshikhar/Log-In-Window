@@ -1,4 +1,3 @@
-# Log-In-Window
 # Kivy(Python)
 A simple log in window using Kivy (python).
 
